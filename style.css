@@ -1,0 +1,108 @@
+* {
+    margin: 0;
+    padding: 0;
+    border-radius: 3px;
+    outline: none;
+  }
+  
+body {
+    font-family: Georgia, "Times New Roman", Times, serif;
+  }
+.navbar {
+    background-color: rgb(42, 43, 43);
+    padding-left: 15px;
+    padding-right: 10px;
+    padding-top: 3px;
+    color: aliceblue;
+  }
+  
+  ul {
+    list-style-type: none;
+  }
+  
+ 
+.fontsetting {
+    padding-top: 10px;
+    text-align: center;
+    border: solid 0.5px rgb(221, 221, 221);
+    margin: 5px;
+    padding-bottom: 22px;
+  }
+  .fontsetting button {
+    width: 80px;
+    padding: 2px;
+    float: left;
+    margin-left: 50px;
+    background-color: gray;
+    height: 28px;
+  }
+  
+  .fontsetting select {
+    float: right;
+    margin-right: 50px;
+    width: 150px;
+    padding-left: 50px;
+    height: 28px;
+  }
+  
+  .lang {
+    margin-left: 600px;
+  }
+  .container {
+    background-color: rgb(238, 238, 238);
+    margin: 5px;
+    padding: 5px;
+    margin-left: 80px;
+    margin-right: 80px;
+    border: solid 0.5px gray;
+  }
+  table {
+    text-align: center;
+  }
+  .descrip {
+    background-color: rgb(224, 171, 157);
+  }
+  h3 {
+    color: brown;
+    margin-left: 98px;
+    font-weight: 1;
+    padding-top: 10px;
+  }
+  .formheading {
+    font-weight: bold;
+    padding: 18px;
+    background-color: rgb(199, 197, 197);
+  }
+  .formheading {
+    font-weight: bold;
+    padding: 18px;
+    background-color: rgb(199, 197, 197);
+  }
+  .form1 button {
+    width: 80px;
+    padding: 2px;
+    margin-left: 50px;
+    background-color: gray;
+    height: 38px;
+    font-size: 20px;
+  }
+  
+  input,
+  textarea {
+    max-width: 400px;
+    border-radius: 5px;
+    padding-left: 3px;
+    border: rgb(0, 0, 0, 0.2) solid 1px;
+  }
+  .btn-success {
+    color: #fff;
+    background-color: #28a745;
+    border-color: #28a745;
+    margin-left: 200px;
+}
+.fa, .fas {
+  font-weight: 900;
+}
+.fa, .far, .fas {
+  font-family: "Font Awesome 5 Free";
+}
